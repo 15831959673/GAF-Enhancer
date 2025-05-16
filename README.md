@@ -1,4 +1,4 @@
-# Genetic Feedback Diffusion Model Fine-Tuned with Reinforcement Learning for High-Activity Enhancer Generation
+# Demystify Genome Code: Genetic Feedback Diffusion Model for High-Activity Enhancer Generation
 
 ## 1. Environment setup
 
